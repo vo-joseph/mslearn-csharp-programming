@@ -1,0 +1,15 @@
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.exe
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.deps.json
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.runtimeconfig.json
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.dll
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.pdb
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.AssemblyInfoInputs.cache
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.AssemblyInfo.cs
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.sourcelink.json
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.dll
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\refint\07-create-a-leaderboard.dll
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.pdb
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.genruntimeconfig.cache
+C:\Users\Hello\Desktop\School\College of St. Scholastica\Fall 2026\Personal\CsharpProjects\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\ref\07-create-a-leaderboard.dll
