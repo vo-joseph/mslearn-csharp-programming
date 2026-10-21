@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLm0KWD3dSQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hello\\Desktop\\School\\College of St. Scholastica\\Fall 2026\\Personal\\CsharpProjects\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\09-create-a-log-file-viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Hello\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
